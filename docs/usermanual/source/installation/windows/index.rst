@@ -19,7 +19,7 @@ The OpenGeo Suite has the following system requirements:
 Installation
 ------------
 
-#. Double click the :file:`OpenGeoSuite.exe` file.
+#. Double-click the :file:`OpenGeoSuite.exe` file.
 
 #. At the **Welcome** screen, click :guilabel:`Next`.
 
