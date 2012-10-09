@@ -5,7 +5,7 @@ Connecting to pgAdmin
 
 .. note:: 
 
-   PostgreSQL has a number of administrative front-ends.  The primary is `psql <http://www.postgresql.org/docs/9.1/static/app-psql.html>`_ a command-line tool for entering SQL queries.  Another popular PostgreSQL front-end is the free and open source graphical tool `pgAdmin <http://www.pgadmin.org/>`_. All queries done in pgAdmin can also be done on the command line with psql.  pgAdmin is linked from the :ref:`Dashboard` and so it will be discussed in these sections.
+   PostgreSQL has a number of administrative front-ends.  The primary is `psql <http://www.postgresql.org/docs/9.1/static/app-psql.html>`_ a command-line tool for entering SQL queries.  Another popular PostgreSQL front-end is the free and open source graphical tool `pgAdmin <http://www.pgadmin.org/>`_. All queries done in pgAdmin can also be done on the command line with psql.  pgAdmin is linked from the Dashboard and so it will be discussed in these sections.
 
 Creating a spatial database can be done both via the command line tool ``psql`` or via the graphical tool **pgAdmin**.  We wil use pgAdmin throughout.
 

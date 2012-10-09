@@ -38,7 +38,7 @@ Loading data
 
 #. Run pgShapeloader.  This utility can be loaded in a few different ways:
 
-   #. Through the :ref:`dashboard` (though not the web-based Dashboard)
+   #. Through the dashboard (though not the web-based Dashboard)
    #. Through pgAdmin by going to the :guilabel:`Plugins` menu and selecting :guilabel:`PostGIS Shapefile and DBF loader`.
    #. Through the command line by running :file:`shp2pgsql-gui`.
 
